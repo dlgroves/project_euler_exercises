@@ -1,0 +1,10 @@
+#ifndef ERRORS
+#define ERRORS
+
+#define EXIT_INCORRECT_PARAMS 1
+#define EXIT_INVALID_FILENAME 2
+#define EXIT_MALLOC_FAILURE 3
+#define EXIT_NPE 4
+#define EXIT_INVALID_GRID_SIZE 5
+
+#endif
